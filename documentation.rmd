@@ -1,0 +1,17 @@
+The Europe 2020 strategy puts forward three mutually reinforcing 
+priorities to make the EU a smarter, more sustainable and more inclusive economy.
+Member states have to meet certain quantifiable goals in key policy sectors such as
+the labour market and the field of research. 
+
+In this shiny-app you can generate a plot in order to visualize the data taken directly from 
+Eurostat database, making use of the extremely useful "Eurostat" Package.
+First you have to choose the sector, i.e Employment Rate or Research and then you have to choose a 
+specific member state.
+
+For the Employment rate, the scale of the X-axis is the percentage of the employment rate for both 
+genders. In respect to Reseach sector, the x-axis scale represents the percent of GDP invested in 
+research projects.
+
+The horizontal line in the plot, indicates the level that should be reached by 2020.
+
+Have fun!
